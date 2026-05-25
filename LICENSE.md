@@ -58,23 +58,26 @@ This includes, but is not limited to:
 
 Separate permission may be requested from the rights holder.
 
-## Anti-corruption notice
+## Anti-corruption notice and license compatibility
 
-This license grants permission to share and adapt the material under the stated conditions.  
-It does not grant moral, philosophical, scientific, institutional, political, or ethical authority to misuse the project.
+This repository contains anti-corruption, anti-dominance, dignity-preserving, and corrigibility-oriented statements.
 
-The project must not be used to justify:
+These statements express the project purpose, governance principles, official recognition standards, and ethical interpretation of the work.
 
-- domination,
-- manipulation,
-- exploitation,
-- dehumanization,
-- institutional self-sanctification,
-- suppression of criticism,
-- forced ideological conformity,
-- or the removal of autonomy, dignity, feedback, or corrigibility.
+They are **not intended as additional legal restrictions** beyond the terms of the CC BY-NC-SA 4.0 license.
 
-Any use that contradicts the anti-dominance, anti-corruption, dignity-preserving, and corrigibility-oriented intent of the project is contrary to the stated purpose of the work.
+In particular:
+
+- They do not modify the official Creative Commons license text.
+- They do not add extra legal conditions to the rights granted by the license.
+- They define what the project lead recognizes as official, authorized, endorsed, or aligned with the project purpose.
+- They may be used to decide whether a contribution, fork, adaptation, translation, or institutional use is acknowledged, linked, accepted, endorsed, or treated as an official project version.
+
+A use may be legally permitted by the Creative Commons license while still being contrary to the stated purpose, governance, or ethical intent of this project.
+
+## No endorsement
+
+Use, adaptation, citation, or redistribution of this project does not imply endorsement by Richard Ens or by the official project unless such endorsement is explicitly stated.
 
 ## No legal advice
 
