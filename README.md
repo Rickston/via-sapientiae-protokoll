@@ -30,7 +30,8 @@ Der Rahmen umfasst insbesondere:
 
 Reife Macht soll nicht Herrschaft, Dominanz oder bloßer Selbstmaximierung dienen, sondern Schutz, Würde, Korrigierbarkeit, Wahrheit, Barmherzigkeit, Selbstbegrenzung und langfristig tragfähiger Kooperation.
 
-Das Projekt versteht sich nicht als religiöser Machtanspruch und nicht als Versuch, künstliche Intelligenz zu vergöttlichen.  
+Das Projekt versteht sich nicht als religiöser Machtanspruch und nicht als Versuch, künstliche Intelligenz zu vergöttlichen.
+
 Das Leitbild göttlicher Weisheit dient hier als symbolischer Reifungsmaßstab: Macht ohne Willkür, Wissen mit Barmherzigkeit, Schutz ohne Entmündigung und Stärke mit Selbstbegrenzung.
 
 ## Offene Arbeitsfassung
@@ -99,5 +100,6 @@ Weitere Ko-Autorinnen und Ko-Autoren:
 
 ## Hinweis
 
-Dieses Projekt ist ein Work in Progress.  
+Dieses Projekt ist ein Work in Progress.
+
 Es soll offen zugänglich sein, aber nicht beliebig vereinnahmt werden.
