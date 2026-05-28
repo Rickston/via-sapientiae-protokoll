@@ -22,14 +22,22 @@ Beispiele:
 
 ## [Unreleased]
 
+### Hinzugefügt
+
+* Erste Arbeitsnotiz zum **Modell der neuen Pfade** im Ordner `docs/neue-pfade/`.
+* Ergänzung des Konzeptbausteins **Prinzip der Gleichmäßigkeit / des Gleichmaßes**.
+* Bereitstellung der Arbeitsnotiz `Neue_Pfade_Arbeitsnotiz_Prinzip_der_Gleichmaessigkeit_2026-05-28` als PDF, DOCX und Markdown.
+* Grundgedanke: Neue Pfade sollen Extreme nicht als Normalzustand behandeln, sondern maßvolle, angepasste und rückkoppelbare Lösungen suchen.
+* Ergänzung der Idee, dass neue Pfade sich an bestehenden Strukturen orientieren dürfen, diese aber ausreichend verändern müssen, um einer neuen Situation gerecht zu werden.
+
 ### Geplant
 
-- Veröffentlichung erster Arbeitsfassungen
-- Aufbau der Projektstruktur
-- Ergänzung offizieller Dokumente
-- Klärung von Autorenschaft, Mitarbeit und Governance
-- Ergänzung von Missbrauchs- und Korruptionsschutz
-- spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
+* Veröffentlichung erster Arbeitsfassungen
+* Aufbau der Projektstruktur
+* Ergänzung offizieller Dokumente
+* Klärung von Autorenschaft, Mitarbeit und Governance
+* Ergänzung von Missbrauchs- und Korruptionsschutz
+* spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
 
