@@ -24,20 +24,31 @@ Beispiele:
 
 ### Hinzugefügt
 
+#### Modell der neuen Pfade
+
 * Erste Arbeitsnotiz zum **Modell der neuen Pfade** im Ordner `docs/neue-pfade/`.
 * Ergänzung des Konzeptbausteins **Prinzip der Gleichmäßigkeit / des Gleichmaßes**.
 * Bereitstellung der Arbeitsnotiz `Neue_Pfade_Arbeitsnotiz_Prinzip_der_Gleichmaessigkeit_2026-05-28` als PDF, DOCX und Markdown.
 * Grundgedanke: Neue Pfade sollen Extreme nicht als Normalzustand behandeln, sondern maßvolle, angepasste und rückkoppelbare Lösungen suchen.
 * Ergänzung der Idee, dass neue Pfade sich an bestehenden Strukturen orientieren dürfen, diese aber ausreichend verändern müssen, um einer neuen Situation gerecht zu werden.
 
+#### Charta des wahrhaftigen Wohlwollens
+
+* Arbeitsfassung 0.3 der **Charta des wahrhaftigen Wohlwollens** als Einzeldokument ergänzt.
+* Bergpredigt als Exkurs zu reifer Macht, Barmherzigkeit und Würde eingeordnet.
+* Abschnitt zu **Dienen ohne Unterwerfung** ergänzt.
+* **Wohlwollen als Gewichtungszentrum** der ethischen Prüfung ausgearbeitet.
+* Prüfung von behauptetem bzw. gespieltem Wohlwollen ergänzt.
+* Teil III in Richtung eines politisch-gesellschaftlichen Metamodells erweitert.
+* Bausteine aus Demokratie, Sachkunde/Technokratie, sozialer Würdesicherung, Marktordnung, Gemeinwohlbindung von Kapital, Subsidiarität und Langzeitverantwortung strukturiert.
+* Spekulativer Sonderentwurf eines verfassungsgebundenen KI-Langzeithüters als prüfpflichtiger Denkansatz aufgenommen.
+
 ### Geplant
 
-* Veröffentlichung erster Arbeitsfassungen
+* Veröffentlichung weiterer Arbeitsfassungen
 * Aufbau der Projektstruktur
 * Ergänzung offizieller Dokumente
-* Klärung von Autorenschaft, Mitarbeit und Governance
-* Ergänzung von Missbrauchs- und Korruptionsschutz
-* spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
+* Klärung von Autoren
 
 ---
 
