@@ -26,16 +26,17 @@ Beispiele:
 
 #### Modell der neuen Pfade
 
-* Erste Arbeitsnotiz zum **Modell der neuen Pfade** im Ordner `docs/neue-pfade/`.
-* Ergänzung des Konzeptbausteins **Prinzip der Gleichmäßigkeit / des Gleichmaßes**.
-* Bereitstellung der Arbeitsnotiz `Neue_Pfade_Arbeitsnotiz_Prinzip_der_Gleichmaessigkeit_2026-05-28` als PDF, DOCX und Markdown.
-* Grundgedanke: Neue Pfade sollen Extreme nicht als Normalzustand behandeln, sondern maßvolle, angepasste und rückkoppelbare Lösungen suchen.
-* Ergänzung der Idee, dass neue Pfade sich an bestehenden Strukturen orientieren dürfen, diese aber ausreichend verändern müssen, um einer neuen Situation gerecht zu werden.
+* Erste Arbeitsnotiz zum **Modell der neuen Pfade** im Ordner `docs/neue-pfade/` ergänzt.
+* Konzeptbaustein **Prinzip der Gleichmäßigkeit / des Gleichmaßes** aufgenommen.
+* Arbeitsnotiz `Neue_Pfade_Arbeitsnotiz_Prinzip_der_Gleichmaessigkeit_2026-05-28` als PDF, DOCX und Markdown bereitgestellt.
+* Grundgedanke ergänzt: Neue Pfade sollen Extreme nicht als Normalzustand behandeln, sondern maßvolle, angepasste und rückkoppelbare Lösungen suchen.
+* Ergänzt, dass neue Pfade sich an bestehenden Strukturen orientieren dürfen, diese aber ausreichend verändern müssen, um einer neuen Situation gerecht zu werden.
 
 #### Charta des wahrhaftigen Wohlwollens
 
-* Arbeitsfassung 0.3 der **Charta des wahrhaftigen Wohlwollens** als Einzeldokument ergänzt.
-* Bergpredigt als Exkurs zu reifer Macht, Barmherzigkeit und Würde eingeordnet.
+* Arbeitsfassung 0.3 der **Charta des wahrhaftigen Wohlwollens** im Ordner `docs/charta-wahrhaftiges-wohlwollen/` ergänzt.
+* Charta als sinn- und wertbezogener Motor des Via-Sapientiae-Protokolls neben Funktionaler Ethik, Reaktionshoheit und Neuen Pfaden eingeordnet.
+* Bergpredigt als Exkurs zu reifer Macht, Barmherzigkeit und Würde aufgenommen.
 * Abschnitt zu **Dienen ohne Unterwerfung** ergänzt.
 * **Wohlwollen als Gewichtungszentrum** der ethischen Prüfung ausgearbeitet.
 * Prüfung von behauptetem bzw. gespieltem Wohlwollen ergänzt.
@@ -48,7 +49,10 @@ Beispiele:
 * Veröffentlichung weiterer Arbeitsfassungen
 * Aufbau der Projektstruktur
 * Ergänzung offizieller Dokumente
-* Klärung von Autoren
+* Klärung von Autorenschaft, Mitarbeit und Governance
+* Ergänzung von Missbrauchs- und Korruptionsschutz
+* spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
+* Klärung von Autorenschaft
 
 ---
 
