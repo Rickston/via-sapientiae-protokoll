@@ -54,6 +54,36 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 * Klärung von Autorenschaft
 
+## Arbeitsfassung 0.6.9 – 02. Juni 2026
+
+### Geändert
+
+* Einleitung und Teil I der *Charta des wahrhaftigen Wohlwollens* überarbeitet.
+* Frühere Begriffsbestimmung von „wahrhaftigem Wohlwollen“ ergänzt und sprachlich geglättet.
+* Wahrhaftiges Wohlwollen deutlicher von bloßer Freundlichkeit abgegrenzt und als Wille zum realen Wohl des Gegenübers beschrieben.
+* Christliche Anschlussbegriffe wie Nächstenliebe, Agape und Caritas als Verständnisbrücke aufgenommen.
+* Teil II im Vorwort weniger machtzentriert gerahmt und stärker als soziale Gestalt wahrhaftigen Wohlwollens beschrieben.
+* Abschnitt „Leidenschaft“ präzisiert: vier Leitlinien zu Intensität, Exklusivität, Hingabe, Dringlichkeit, Begehren und Prahlen ergänzt.
+* Verhältnismäßigkeitsklausel für ambivalente Kippformen intensiver Bindung ergänzt.
+* Dominanz begrifflich stärker von Tyrannei, Zwang, Entwürdigung und dauerhafter Vereinnahmung abgegrenzt.
+* Neuer Abschnitt „Vereinigung ohne Selbstverlust“ in Teil I ergänzt.
+* Übergang zwischen Teil I und Teil II zur „Übertragungsregel“ umgearbeitet.
+* Neuer Unterabschnitt „Nähe, Messbarkeit und Verantwortung“ ergänzt.
+* Persönliche Beziehungen als praktischer und erkenntnisbezogener Verantwortungsraum eingeordnet, ohne daraus einen höheren Würdewert nahestehender Personen abzuleiten.
+* KI-Anschluss im Übergang vorsichtiger und prüfbarer formuliert.
+
+### Korrigiert
+
+* Verwirrende Nummerierung im Vorspann bereinigt.
+* Begriff „systemische Ebene“ im Vorwort entschärft, um kein starres Ebenenmodell anzudeuten.
+* Formulierungen zu Dominanz, Besitzsprache, Freiheit und Würde sprachlich präzisiert.
+* „Dominanz als Liebe tarnen“ durch die genauere Formulierung „Tyrannei als Liebe tarnen“ ersetzt.
+* Übergangsabschnitt sprachlich und logisch neu geordnet.
+
+### Hinweis
+
+Diese Fassung bleibt eine Arbeitsfassung. Schwerpunkt der Überarbeitung war die bessere Lesbarkeit, klarere Begriffsführung und stärkere Anschlussfähigkeit von Einleitung, Teil I und Übergang/Übertragungsregel.
+
 ---
 
 ## [0.1.0] - 2026-05-25
