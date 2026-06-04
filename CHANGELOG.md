@@ -35,6 +35,23 @@ Beispiele:
 
 ---
 
+## 0.7 · 2026-06-04
+
+### Kats Modell der neuen Pfade
+
+* Grundstruktur der Arbeitsfassung umfassend neu geordnet.
+* Neues Leitkapitel **„Der goldene Pfad“** eingeführt.
+* Neugierde, experimentierfreudiges Leben, Wandel gegen Stagnation sowie gerichteter und rückgekoppelter Wandel als zentrale Orientierung ergänzt.
+* Unterscheidung zwischen **Nachvollziehen** und **Verstehen** aufgenommen, einschließlich strukturellem und empathisch-existenziellem Verstehen.
+* Das **Heinz-Dilemma** als Beispiel- und Testfall für blockierte bekannte Wege, Verantwortungsteilung, Bindungszuweisung und neue Pfadfindung eingefügt.
+* Abschnitt zu Regeln, Ausnahmen und verantworteter Regelverletzung nachgelagert, um Regelbruch klar als begründeten Extremfall und nicht als Ausgangspunkt des Modells zu rahmen.
+* Brückenbildung, Gleichmaß, Methoden neuer Pfade und Verfahrensprotokoll neu in die Gesamtstruktur eingebettet.
+* Grenzfälle wie Schiff des Theseus, Transhumanismus, Seelenkontinuität und Fortführungsfragen als **Grenzräume, Prüf- und Sonderfälle** neu gerahmt.
+* Theologischen Demutsrahmen und Gottesvorbehalt stärker in die Gesamtstruktur eingebunden; ausdrückliche Ergänzung Gottes als **Herr** für den nächsten Feinschliff vorgemerkt.
+
+
+---
+
 ## Arbeitsfassung 0.6 – Kats Modell der neuen Pfade – 03. Juni 2026
 
 ### Hinzugefügt
