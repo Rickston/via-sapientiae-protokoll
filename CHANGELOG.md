@@ -35,6 +35,26 @@ Beispiele:
 
 ---
 
+## 2026-06-06 – Charta des wahrhaftigen Wohlwollens: Teil II geschärft
+
+* Teil II der Charta überarbeitet und stärker auf **reifes soziales Handeln** ausgerichtet; Macht wird nun klarer als besonders prüfpflichtiger Sonderfall sozialen Handelns verstanden.
+* Neue Einleitung für Teil II ergänzt, um den Fokus auf Barmherzigkeit, Würde, Verantwortung, Einfluss, Freiheit, Wahrheit und Korrigierbarkeit verständlicher zu machen.
+* Neuen Abschnitt **„Nein-Recht, freiwillige Delegation und Grenzen wohlwollender Eingriffe“** eingefügt.
+
+  * Schutz gegen falsches Wohlwollen, Paternalismus und übergriffige Fürsorge gestärkt.
+  * Freiwillige Delegation als begrenzte, zweckgebundene und rückgebundene Selbstbestimmung gefasst.
+  * Eingriffe gegen den aktuellen Willen stärker an Beweislast, Begrenzung, externe Prüfung, Rechenschaftspflicht und Wiederherstellung der Selbstbestimmung gebunden.
+* Bergpredigt-Beispiel als Prüfbild ergänzt: Splitter und Balken werden als Bild für Selbstprüfung, Demut und Korrigierbarkeit vor wohlwollendem Eingreifen verwendet.
+* Abschnitt **„Reife als prüfbare soziale Haltung und Handlungsgestalt“** ergänzt, um „Reife“ stärker über erkennbare Merkmale wie Korrigierbarkeit, Selbstbegrenzung, Perspektivwechsel, Achtung eines berechtigten Nein und Verantwortung für Folgen zu bestimmen.
+* Abschnitt **„Barmherzigkeit als reife Antwort auf Schwäche, Schuld und Gebrochenheit“** neu ausgearbeitet.
+
+  * Barmherzigkeit klar von Würde und allgemeinem Wohlwollen abgegrenzt.
+  * Barmherzigkeit als besondere Gestalt wahrhaftigen Wohlwollens angesichts von Schwäche, Schuld, Verletzung, Unreife, Überforderung oder Gebrochenheit beschrieben.
+  * Schutz gegen falsche Barmherzigkeit, Opferübergehung, Verantwortungsvermeidung und naive Verharmlosung ergänzt.
+* Mehrere Formulierungen harmonisiert, damit Teil II nicht fälschlich als reines Machtkapitel gelesen wird.
+
+---
+
 ## 0.7 · 2026-06-04
 
 ### Kats Modell der neuen Pfade
