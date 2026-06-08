@@ -35,6 +35,44 @@ Beispiele:
 
 ---
 
+## 2026-06-08 – Kats Modell der neuen Pfade: Arbeitsfassung 0.7.2
+
+### Geändert
+
+* Arbeitsfassung von **Kats Modell der neuen Pfade** auf Version **0.7.2** aktualisiert.
+* Kapitel 3, 7, 8 und 9 strukturell geschärft:
+
+  * Kapitel 3 als **Aktivierungsrahmen** markiert.
+  * Kapitel 7 zu **Diagnoserahmen: Schwellen, fehlende Verbindung und Brückenbedarf** umbenannt.
+  * Kapitel 8 als **Methodenkatalog** eingeordnet.
+  * Kapitel 9 als praktische Durchführung des Aktivierungs-, Diagnose- und Methodenrahmens präzisiert.
+* Die interne Prüfbewegung des Modells klarer herausgearbeitet: **Ob → Was → Womit → Wie**.
+* Kapitel 10 zum **Heinz-Dilemma** um einen Orientierungsabsatz und einen präzisierten Schlusssatz ergänzt, damit das Beispiel die Viererordnung sichtbar durchläuft.
+* Kapitel 11 **Regeln, Ausnahmen und verantwortete Regelverletzung** neu gefasst und als Schutzabschnitt gestärkt:
+
+  * keine allgemeine Erlaubnis zum Regelbruch,
+  * Ausnahme hebt Regel nicht auf,
+  * klare Abgrenzung zu Regelverachtung,
+  * Bindung an Notwendigkeit, Minimalität, Verhältnismäßigkeit, Wiedergutmachung und Rechenschaft.
+* Kapitel 13 als **Stresstest-Kapitel** nachgeschärft:
+
+  * Grenzräume ausdrücklich als Prüf- und Sonderfälle markiert, nicht als technische Roadmap.
+  * Frühwarnfunktion ergänzt, damit unbequeme Fragen vor technologischer Verfestigung gestellt werden.
+  * Gelenktext zu Fortführung, Resten, Beziehungen, Ansprüchen und Verantwortung nach der Schwelle eingefügt.
+  * Übergang zum theologischen Demutsrahmen in Kapitel 14 gestärkt.
+
+### Hinweise
+
+* Die neue Fassung enthält in Kapitel 13 mehrere inhaltlich wichtige Gelenk- und Statusabsätze.
+* Für die nächste Überarbeitung ist eine Formatierungs- und Leserführungsprüfung vorgesehen, damit diese Einschübe sichtbarer eingebettet werden und nicht wie fremde Textblöcke wirken.
+
+### Dateien
+
+* `Kats_Modell_der_neuen_Pfade_Arbeitsfassung_0_7_2_Kapitel_13_Stresstest.docx`
+* `Kats_Modell_der_neuen_Pfade_Arbeitsfassung_0_7_2_Kapitel_13_Stresstest.pdf`
+
+---
+
 ## 2026-06-06 – Charta des wahrhaftigen Wohlwollens: Teil II geschärft
 
 * Teil II der Charta überarbeitet und stärker auf **reifes soziales Handeln** ausgerichtet; Macht wird nun klarer als besonders prüfpflichtiger Sonderfall sozialen Handelns verstanden.
