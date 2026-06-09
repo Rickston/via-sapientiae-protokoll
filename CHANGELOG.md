@@ -60,6 +60,27 @@ Beispiele:
   * Frühwarnfunktion ergänzt, damit unbequeme Fragen vor technologischer Verfestigung gestellt werden.
   * Gelenktext zu Fortführung, Resten, Beziehungen, Ansprüchen und Verantwortung nach der Schwelle eingefügt.
   * Übergang zum theologischen Demutsrahmen in Kapitel 14 gestärkt.
+  * 
+  * * Kapitel 13 nachträglich in der Leserführung verbessert:
+
+  * drei Gelenk- und Statusabsätze einheitlich als **Orientierung** markiert,
+  * Stresstest-, Fortführungs- und Übergangshinweise optisch besser eingebettet,
+  * sichtbare Abgrenzung geschaffen, damit die Ergänzungen nicht wie fremde Einschübe wirken.
+* Kapitel 14 **Theologischer Demutsrahmen und Gottesvorbehalt** gestrafft und neu gebündelt:
+
+  * Wiederholungen reduziert,
+  * Gott ausdrücklich als **Ursprung, Maß, Ziel und Herr** benannt,
+  * direkten Einfluss auf Seelen klar ausgeschlossen,
+  * Seelenkontinuität als unverfügbarer Bereich unter Gottes Macht, Gabe oder Zulassung gefasst,
+  * Gaben- und Black-Box-Klausel theologisch vorsichtiger formuliert,
+  * KI-Analogie ausdrücklich als vorsichtige Analogie und nicht als Gleichsetzung mit der Seele markiert,
+  * Schutz vor menschlicher Gier, Warenlogik, technischer Dominanz und Zwangsfortführung gestärkt,
+  * Schlusszyklus der neuen Trägerphase unter Gottes Vorbehalt gestellt.
+* Schlussprüfung durchgeführt:
+
+  * kein zusätzlicher Schlussabsatz eingefügt,
+  * Kapitel 14 bleibt als theologischer Schlussanker des Dokuments bestehen.
+
 
 ### Hinweise
 
