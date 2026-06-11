@@ -35,6 +35,27 @@ Beispiele:
 
 ---
 
+## 2026-06-11 – Funktionale Ethik: Ergänzung Zielbindung
+
+### Geändert
+
+* Die **Funktionale Ethik-Theorie** wurde um den neuen Abschnitt **6.5 „Zielbindung“** ergänzt.
+* Der bisherige Abschnitt **6.5 „Macht als Zielobjekt“** wurde entsprechend zu **6.6** verschoben.
+* Die neue Fassung liegt als **DOCX** und **PDF** vor.
+
+### Inhaltliche Ergänzung
+
+* Zielbindung wird als vor-ethisches Funktionsmerkmal eingeführt: die stabile Aufrechterhaltung einer Zielausrichtung über Zeit.
+* Der Zusammenhang zwischen Zielbindung, Disziplin, Zielpersistenz und stabiler Optimierung wurde geklärt.
+* Es wurde herausgearbeitet, dass Zielbindung nicht automatisch ethisch gut ist, sondern auch Fehloptimierung verstärken kann, wenn Zielstruktur, Zielobjekt oder Zielmetrik verengt oder fehlerhaft sind.
+* Ein Beispiel mit einem blockierten Fluss und der Bewässerung von Feldern verdeutlicht, wie zielstabile Optimierung effizient und zugleich schädlich sein kann, wenn relevante Folgewirkungen nicht ausreichend berücksichtigt werden.
+
+### Hinweis
+
+* Die Ergänzung stärkt die Verbindung zwischen Zielstruktur, Zielmetrik, Fehloptimierung und späterer Rückkopplung/Korrigierbarkeit innerhalb der zentralen Argumentationskette.
+
+---
+
 ## 2026-06-08 – Kats Modell der neuen Pfade: Arbeitsfassung 0.7.2
 
 ### Geändert
