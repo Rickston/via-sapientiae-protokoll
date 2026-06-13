@@ -35,6 +35,100 @@ Beispiele:
 
 ---
 
+## 2026-06-13 – Funktionale Ethik: Erweiterung der zentralen Argumente A4–A7
+
+### Geändert
+
+* Die **Funktionale Ethik-Theorie – Diskussionsfassung Version 1.2** wurde um vier zusätzliche Argumente im Abschnitt **15. Die zentralen Argumente** erweitert.
+* Die frühere Überschrift **„15. Die drei zentralen Argumente“** wurde zu **„15. Die zentralen Argumente“** angepasst.
+
+### Ergänzt
+
+Neu aufgenommen wurden:
+
+* **15.4 A4 – Ressourcenbindung und Vermeidung funktionaler Verschwendung**
+  Ergänzt das Modell um den Gedanken, dass funktionale Ethik vermeidbare Ressourcenverluste durch Misstrauen, Täuschung, Dominanz, Fehlkommunikation und spätere Schadenskorrektur reduziert.
+
+* **15.5 A5 – Rückkopplungsschutz gegen blinde Stabilisierung**
+  Präzisiert, dass bloße Stabilität nicht genügt, wenn ein System Kritik, Widerspruch, Leid, Betroffenenperspektiven oder relevante Rückmeldungen ausblendet.
+
+* **15.6 A6 – Zielbindung gegen geordnetes Fehloptimieren**
+  Verbindet den neuen Zielbindungsabschnitt mit dem Hauptargument der Theorie und zeigt, warum Strategie, Taktik und Disziplin an das eigentliche Zielobjekt rückgebunden bleiben müssen.
+
+* **15.7 A7 – Differenzerhalt und Innovationsfähigkeit**
+  Stärkt den Zusammenhang zwischen strukturierter Differenz, Korrigierbarkeit, Nicht-Dominanz und langfristiger Anpassungs- und Innovationsfähigkeit.
+
+### Zweck der Änderung
+
+Die Ergänzung bündelt bereits im Theorieansatz angelegte Gedanken und macht sie im Argumentationsteil sichtbarer. Ziel ist keine grundlegende Neuausrichtung der Theorie, sondern eine klarere Darstellung zusätzlicher funktionaler Gründe für ethische Strukturen: Ressourcenschutz, Rückkopplung, Zielbindung und Innovationsfähigkeit.
+
+### Dateien
+
+* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.docx`
+* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.pdf`
+
+---
+
+## 2026-06-13 – Funktionale Ethik: Präzisierung des Glossareintrags „Dominanz“
+
+### Geändert
+
+* Der Glossareintrag **„Dominanz“** wurde präzisiert und technisch enger gefasst.
+* Dominanz wird nun ausdrücklich als negative Form tyrannischer, unterwerfender, feedbackblockierender, autonomie- und differenzschädigender Kontrolle verstanden.
+
+### Präzisiert
+
+Klargestellt wurde, dass mit „Dominanz“ im Sinne der Theorie **nicht** jede asymmetrische Ordnung, Führung oder Einflussnahme gemeint ist.
+
+Nicht unter den negativen Dominanzbegriff fallen insbesondere:
+
+* legitime Führung,
+* Anleitung,
+* Unterricht und Lehre,
+* Diskussion,
+* Schutzhandlungen,
+* Verantwortung,
+* legitime Entscheidungsordnung,
+* begrenzte und rückgekoppelte Governance.
+
+### Zweck der Änderung
+
+Die Präzisierung soll Missverständnisse vermeiden. Die Theorie richtet sich nicht gegen jede Form von Autorität, Ordnung, Führung oder Schutz, sondern gegen solche Machtformen, die strukturierte Differenz, Rückkopplung, Autonomie, Korrigierbarkeit und langfristige Stabilität vermeidbar beschädigen.
+
+Damit wird der Dominanzbegriff anschlussfähiger und zugleich missbrauchssicherer: Die Theorie soll Macht begrenzen, nicht notwendige Verantwortung, Schutz oder legitime Ordnung delegitimieren.
+
+---
+
+## 2026-06-13 – Funktionale Ethik: Ergänzung des Abschnitts 6.5 „Zielbindung“
+
+### Geändert
+
+* Die **Funktionale Ethik-Theorie – Diskussionsfassung Version 1.2** wurde im Abschnitt **6. Zielstruktur, Zielobjekt und Zielmetrik** um den neuen Unterabschnitt **6.5 Zielbindung** erweitert.
+* Der bisherige Abschnitt zur Dominanz wurde entsprechend nach hinten verschoben und als **6.6 Macht als Zielobjekt / Dominanz** weitergeführt.
+
+### Ergänzt
+
+Neu aufgenommen wurde der Begriff **Zielbindung** als geordnete Ausrichtung von Aktivitäten auf ein Zielobjekt.
+
+Der Abschnitt unterscheidet dabei insbesondere:
+
+* **Strategie** als übergeordneten Lösungsweg oder Wegwahl zur Zielerreichung,
+* **Taktik** als konkrete Ausführung und Mittelwahl innerhalb dieses Weges,
+* **Disziplin** als geordnetes Durchhalten und zuverlässige Umsetzung trotz Ablenkung, Verzögerung oder Vorbereitungserfordernissen,
+* **Reflexion** als prüfende Rückkopplungsinstanz, die kontrolliert, ob Strategie, Taktik und Disziplin weiterhin an das eigentliche Zielobjekt gebunden bleiben.
+
+### Zweck der Änderung
+
+Die Ergänzung präzisiert, dass Zielstruktur, Zielobjekt und Zielmetrik allein noch nicht ausreichen, um geordnete Zielverfolgung zu erklären. Ein System kann effizient, strategisch und diszipliniert handeln und dennoch fehloptimieren, wenn seine Aktivitäten nicht mehr an das eigentliche Zielobjekt zurückgebunden bleiben.
+
+Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und verantworteter Zielausrichtung. Zielbindung wird als Schutz gegen Zielmetrik-Ersatz, Machtverselbstständigung und geordnetes Fehloptimieren eingeführt.
+
+### Merksatz
+
+**Zielbindung arbeitet; Reflexion wacht.**
+
+---
+
 ## 2026-06-11 – Funktionale Ethik: Ergänzung Zielbindung
 
 ### Geändert
