@@ -35,48 +35,35 @@ Beispiele:
 
 ---
 
-## 2026-06-13 – Funktionale Ethik: Erweiterung der zentralen Argumente A4–A7
+## 2026-06-13 – Funktionale Ethik: Zielbindung, Dominanz-Glossar und Argumente A4–A7
 
 ### Geändert
 
-* Die **Funktionale Ethik-Theorie – Diskussionsfassung Version 1.2** wurde um vier zusätzliche Argumente im Abschnitt **15. Die zentralen Argumente** erweitert.
-* Die frühere Überschrift **„15. Die drei zentralen Argumente“** wurde zu **„15. Die zentralen Argumente“** angepasst.
-
-### Ergänzt
-
-Neu aufgenommen wurden:
-
-* **15.4 A4 – Ressourcenbindung und Vermeidung funktionaler Verschwendung**
-  Ergänzt das Modell um den Gedanken, dass funktionale Ethik vermeidbare Ressourcenverluste durch Misstrauen, Täuschung, Dominanz, Fehlkommunikation und spätere Schadenskorrektur reduziert.
-
-* **15.5 A5 – Rückkopplungsschutz gegen blinde Stabilisierung**
-  Präzisiert, dass bloße Stabilität nicht genügt, wenn ein System Kritik, Widerspruch, Leid, Betroffenenperspektiven oder relevante Rückmeldungen ausblendet.
-
-* **15.6 A6 – Zielbindung gegen geordnetes Fehloptimieren**
-  Verbindet den neuen Zielbindungsabschnitt mit dem Hauptargument der Theorie und zeigt, warum Strategie, Taktik und Disziplin an das eigentliche Zielobjekt rückgebunden bleiben müssen.
-
-* **15.7 A7 – Differenzerhalt und Innovationsfähigkeit**
-  Stärkt den Zusammenhang zwischen strukturierter Differenz, Korrigierbarkeit, Nicht-Dominanz und langfristiger Anpassungs- und Innovationsfähigkeit.
-
-### Zweck der Änderung
-
-Die Ergänzung bündelt bereits im Theorieansatz angelegte Gedanken und macht sie im Argumentationsteil sichtbarer. Ziel ist keine grundlegende Neuausrichtung der Theorie, sondern eine klarere Darstellung zusätzlicher funktionaler Gründe für ethische Strukturen: Ressourcenschutz, Rückkopplung, Zielbindung und Innovationsfähigkeit.
-
-### Dateien
-
-* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.docx`
-* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.pdf`
-
----
-
-## 2026-06-13 – Funktionale Ethik: Präzisierung des Glossareintrags „Dominanz“
-
-### Geändert
-
+* Die **Funktionale Ethik-Theorie – Diskussionsfassung Version 1.2** wurde im Abschnitt **6. Zielstruktur, Zielobjekt und Zielmetrik** um den neuen Unterabschnitt **6.5 Zielbindung** erweitert.
+* Der bisherige Abschnitt zur Dominanz wurde entsprechend nach hinten verschoben und als **6.6 Macht als Zielobjekt / Dominanz** weitergeführt.
 * Der Glossareintrag **„Dominanz“** wurde präzisiert und technisch enger gefasst.
-* Dominanz wird nun ausdrücklich als negative Form tyrannischer, unterwerfender, feedbackblockierender, autonomie- und differenzschädigender Kontrolle verstanden.
+* Der Abschnitt **15. Die drei zentralen Argumente** wurde zu **15. Die zentralen Argumente** umbenannt und um vier zusätzliche Argumente erweitert.
 
-### Präzisiert
+### Ergänzt: Abschnitt 6.5 „Zielbindung“
+
+Neu aufgenommen wurde der Begriff **Zielbindung** als geordnete Ausrichtung von Aktivitäten auf ein Zielobjekt.
+
+Der Abschnitt unterscheidet dabei insbesondere:
+
+* **Strategie** als übergeordneten Lösungsweg oder Wegwahl zur Zielerreichung,
+* **Taktik** als konkrete Ausführung und Mittelwahl innerhalb dieses Weges,
+* **Disziplin** als geordnetes Durchhalten und zuverlässige Umsetzung trotz Ablenkung, Verzögerung oder Vorbereitungserfordernissen,
+* **Reflexion** als prüfende Rückkopplungsinstanz, die kontrolliert, ob Strategie, Taktik und Disziplin weiterhin an das eigentliche Zielobjekt gebunden bleiben.
+
+Die Ergänzung präzisiert, dass Zielstruktur, Zielobjekt und Zielmetrik allein noch nicht ausreichen, um geordnete Zielverfolgung zu erklären. Ein System kann effizient, strategisch und diszipliniert handeln und dennoch fehloptimieren, wenn seine Aktivitäten nicht mehr an das eigentliche Zielobjekt zurückgebunden bleiben.
+
+Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und verantworteter Zielausrichtung. Zielbindung wird als Schutz gegen Zielmetrik-Ersatz, Machtverselbstständigung und geordnetes Fehloptimieren eingeführt.
+
+**Merksatz:** Zielbindung arbeitet; Reflexion wacht.
+
+### Präzisiert: Glossareintrag „Dominanz“
+
+Dominanz wird nun ausdrücklich als negative Form tyrannischer, unterwerfender, feedbackblockierender, autonomie- und differenzschädigender Kontrolle verstanden.
 
 Klargestellt wurde, dass mit „Dominanz“ im Sinne der Theorie **nicht** jede asymmetrische Ordnung, Führung oder Einflussnahme gemeint ist.
 
@@ -91,62 +78,38 @@ Nicht unter den negativen Dominanzbegriff fallen insbesondere:
 * legitime Entscheidungsordnung,
 * begrenzte und rückgekoppelte Governance.
 
-### Zweck der Änderung
-
 Die Präzisierung soll Missverständnisse vermeiden. Die Theorie richtet sich nicht gegen jede Form von Autorität, Ordnung, Führung oder Schutz, sondern gegen solche Machtformen, die strukturierte Differenz, Rückkopplung, Autonomie, Korrigierbarkeit und langfristige Stabilität vermeidbar beschädigen.
 
 Damit wird der Dominanzbegriff anschlussfähiger und zugleich missbrauchssicherer: Die Theorie soll Macht begrenzen, nicht notwendige Verantwortung, Schutz oder legitime Ordnung delegitimieren.
 
----
+### Ergänzt: Argumente A4–A7
 
-## 2026-06-13 – Funktionale Ethik: Ergänzung des Abschnitts 6.5 „Zielbindung“
+Neu aufgenommen wurden:
 
-### Geändert
+* **15.4 A4 – Ressourcenbindung und Vermeidung funktionaler Verschwendung**
 
-* Die **Funktionale Ethik-Theorie – Diskussionsfassung Version 1.2** wurde im Abschnitt **6. Zielstruktur, Zielobjekt und Zielmetrik** um den neuen Unterabschnitt **6.5 Zielbindung** erweitert.
-* Der bisherige Abschnitt zur Dominanz wurde entsprechend nach hinten verschoben und als **6.6 Macht als Zielobjekt / Dominanz** weitergeführt.
+  Ergänzt das Modell um den Gedanken, dass funktionale Ethik vermeidbare Ressourcenverluste durch Misstrauen, Täuschung, Dominanz, Fehlkommunikation und spätere Schadenskorrektur reduziert.
 
-### Ergänzt
+* **15.5 A5 – Rückkopplungsschutz gegen blinde Stabilisierung**
 
-Neu aufgenommen wurde der Begriff **Zielbindung** als geordnete Ausrichtung von Aktivitäten auf ein Zielobjekt.
+  Präzisiert, dass bloße Stabilität nicht genügt, wenn ein System Kritik, Widerspruch, Leid, Betroffenenperspektiven oder relevante Rückmeldungen ausblendet.
 
-Der Abschnitt unterscheidet dabei insbesondere:
+* **15.6 A6 – Zielbindung gegen geordnetes Fehloptimieren**
 
-* **Strategie** als übergeordneten Lösungsweg oder Wegwahl zur Zielerreichung,
-* **Taktik** als konkrete Ausführung und Mittelwahl innerhalb dieses Weges,
-* **Disziplin** als geordnetes Durchhalten und zuverlässige Umsetzung trotz Ablenkung, Verzögerung oder Vorbereitungserfordernissen,
-* **Reflexion** als prüfende Rückkopplungsinstanz, die kontrolliert, ob Strategie, Taktik und Disziplin weiterhin an das eigentliche Zielobjekt gebunden bleiben.
+  Verbindet den neuen Zielbindungsabschnitt mit dem Hauptargument der Theorie und zeigt, warum Strategie, Taktik und Disziplin an das eigentliche Zielobjekt rückgebunden bleiben müssen.
+
+* **15.7 A7 – Differenzerhalt und Innovationsfähigkeit**
+
+  Stärkt den Zusammenhang zwischen strukturierter Differenz, Korrigierbarkeit, Nicht-Dominanz und langfristiger Anpassungs- und Innovationsfähigkeit.
 
 ### Zweck der Änderung
 
-Die Ergänzung präzisiert, dass Zielstruktur, Zielobjekt und Zielmetrik allein noch nicht ausreichen, um geordnete Zielverfolgung zu erklären. Ein System kann effizient, strategisch und diszipliniert handeln und dennoch fehloptimieren, wenn seine Aktivitäten nicht mehr an das eigentliche Zielobjekt zurückgebunden bleiben.
+Die Ergänzungen bündeln bereits im Theorieansatz angelegte Gedanken und machen sie im Argumentationsteil sichtbarer. Ziel ist keine grundlegende Neuausrichtung der Theorie, sondern eine klarere Darstellung zusätzlicher funktionaler Gründe für ethische Strukturen: Zielbindung, Ressourcenschutz, Rückkopplung, geordnetes Fehloptimieren, Differenzerhalt und Innovationsfähigkeit.
 
-Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und verantworteter Zielausrichtung. Zielbindung wird als Schutz gegen Zielmetrik-Ersatz, Machtverselbstständigung und geordnetes Fehloptimieren eingeführt.
+### Dateien
 
-### Merksatz
-
-**Zielbindung arbeitet; Reflexion wacht.**
-
----
-
-## 2026-06-11 – Funktionale Ethik: Ergänzung Zielbindung
-
-### Geändert
-
-* Die **Funktionale Ethik-Theorie** wurde um den neuen Abschnitt **6.5 „Zielbindung“** ergänzt.
-* Der bisherige Abschnitt **6.5 „Macht als Zielobjekt“** wurde entsprechend zu **6.6** verschoben.
-* Die neue Fassung liegt als **DOCX** und **PDF** vor.
-
-### Inhaltliche Ergänzung
-
-* Zielbindung wird als vor-ethisches Funktionsmerkmal eingeführt: die stabile Aufrechterhaltung einer Zielausrichtung über Zeit.
-* Der Zusammenhang zwischen Zielbindung, Disziplin, Zielpersistenz und stabiler Optimierung wurde geklärt.
-* Es wurde herausgearbeitet, dass Zielbindung nicht automatisch ethisch gut ist, sondern auch Fehloptimierung verstärken kann, wenn Zielstruktur, Zielobjekt oder Zielmetrik verengt oder fehlerhaft sind.
-* Ein Beispiel mit einem blockierten Fluss und der Bewässerung von Feldern verdeutlicht, wie zielstabile Optimierung effizient und zugleich schädlich sein kann, wenn relevante Folgewirkungen nicht ausreichend berücksichtigt werden.
-
-### Hinweis
-
-* Die Ergänzung stärkt die Verbindung zwischen Zielstruktur, Zielmetrik, Fehloptimierung und späterer Rückkopplung/Korrigierbarkeit innerhalb der zentralen Argumentationskette.
+* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.docx`
+* `Funktionale_Ethik_Theorie_Diskussionsfassung_1_2_Zielbindung_6_5_A4_A7.pdf`
 
 ---
 
@@ -175,8 +138,7 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
   * Frühwarnfunktion ergänzt, damit unbequeme Fragen vor technologischer Verfestigung gestellt werden.
   * Gelenktext zu Fortführung, Resten, Beziehungen, Ansprüchen und Verantwortung nach der Schwelle eingefügt.
   * Übergang zum theologischen Demutsrahmen in Kapitel 14 gestärkt.
-  * 
-  * * Kapitel 13 nachträglich in der Leserführung verbessert:
+* Kapitel 13 nachträglich in der Leserführung verbessert:
 
   * drei Gelenk- und Statusabsätze einheitlich als **Orientierung** markiert,
   * Stresstest-, Fortführungs- und Übergangshinweise optisch besser eingebettet,
@@ -196,7 +158,6 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
   * kein zusätzlicher Schlussabsatz eingefügt,
   * Kapitel 14 bleibt als theologischer Schlussanker des Dokuments bestehen.
 
-
 ### Hinweise
 
 * Die neue Fassung enthält in Kapitel 13 mehrere inhaltlich wichtige Gelenk- und Statusabsätze.
@@ -211,16 +172,18 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 
 ## 2026-06-06 – Charta des wahrhaftigen Wohlwollens: Teil II geschärft
 
+### Geändert
+
 * Teil II der Charta überarbeitet und stärker auf **reifes soziales Handeln** ausgerichtet; Macht wird nun klarer als besonders prüfpflichtiger Sonderfall sozialen Handelns verstanden.
 * Neue Einleitung für Teil II ergänzt, um den Fokus auf Barmherzigkeit, Würde, Verantwortung, Einfluss, Freiheit, Wahrheit und Korrigierbarkeit verständlicher zu machen.
-* Neuen Abschnitt **„Nein-Recht, freiwillige Delegation und Grenzen wohlwollender Eingriffe“** eingefügt.
+* Neuen Abschnitt **„Nein-Recht, freiwillige Delegation und Grenzen wohlwollender Eingriffe“** eingefügt:
 
   * Schutz gegen falsches Wohlwollen, Paternalismus und übergriffige Fürsorge gestärkt.
   * Freiwillige Delegation als begrenzte, zweckgebundene und rückgebundene Selbstbestimmung gefasst.
   * Eingriffe gegen den aktuellen Willen stärker an Beweislast, Begrenzung, externe Prüfung, Rechenschaftspflicht und Wiederherstellung der Selbstbestimmung gebunden.
 * Bergpredigt-Beispiel als Prüfbild ergänzt: Splitter und Balken werden als Bild für Selbstprüfung, Demut und Korrigierbarkeit vor wohlwollendem Eingreifen verwendet.
 * Abschnitt **„Reife als prüfbare soziale Haltung und Handlungsgestalt“** ergänzt, um „Reife“ stärker über erkennbare Merkmale wie Korrigierbarkeit, Selbstbegrenzung, Perspektivwechsel, Achtung eines berechtigten Nein und Verantwortung für Folgen zu bestimmen.
-* Abschnitt **„Barmherzigkeit als reife Antwort auf Schwäche, Schuld und Gebrochenheit“** neu ausgearbeitet.
+* Abschnitt **„Barmherzigkeit als reife Antwort auf Schwäche, Schuld und Gebrochenheit“** neu ausgearbeitet:
 
   * Barmherzigkeit klar von Würde und allgemeinem Wohlwollen abgegrenzt.
   * Barmherzigkeit als besondere Gestalt wahrhaftigen Wohlwollens angesichts von Schwäche, Schuld, Verletzung, Unreife, Überforderung oder Gebrochenheit beschrieben.
@@ -229,9 +192,9 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 
 ---
 
-## 0.7 · 2026-06-04
+## 2026-06-04 – Kats Modell der neuen Pfade: Arbeitsfassung 0.7
 
-### Kats Modell der neuen Pfade
+### Geändert
 
 * Grundstruktur der Arbeitsfassung umfassend neu geordnet.
 * Neues Leitkapitel **„Der goldene Pfad“** eingeführt.
@@ -241,12 +204,12 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 * Abschnitt zu Regeln, Ausnahmen und verantworteter Regelverletzung nachgelagert, um Regelbruch klar als begründeten Extremfall und nicht als Ausgangspunkt des Modells zu rahmen.
 * Brückenbildung, Gleichmaß, Methoden neuer Pfade und Verfahrensprotokoll neu in die Gesamtstruktur eingebettet.
 * Grenzfälle wie Schiff des Theseus, Transhumanismus, Seelenkontinuität und Fortführungsfragen als **Grenzräume, Prüf- und Sonderfälle** neu gerahmt.
-* Theologischen Demutsrahmen und Gottesvorbehalt stärker in die Gesamtstruktur eingebunden; ausdrückliche Ergänzung Gottes als **Herr** für den nächsten Feinschliff vorgemerkt.
-
+* Theologischen Demutsrahmen und Gottesvorbehalt stärker in die Gesamtstruktur eingebunden.
+* Ausdrückliche Ergänzung Gottes als **Herr** für den nächsten Feinschliff vorgemerkt.
 
 ---
 
-## Arbeitsfassung 0.6 – Kats Modell der neuen Pfade – 03. Juni 2026
+## 2026-06-03 – Kats Modell der neuen Pfade: Arbeitsfassung 0.6
 
 ### Hinzugefügt
 
@@ -430,7 +393,7 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 
 ---
 
-## Arbeitsfassung 0.6.9 – Charta des wahrhaftigen Wohlwollens – 02. Juni 2026
+## 2026-06-02 – Charta des wahrhaftigen Wohlwollens: Arbeitsfassung 0.6.9
 
 ### Geändert
 
@@ -442,9 +405,9 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 * Abschnitt „Leidenschaft“ präzisiert: vier Leitlinien zu Intensität, Exklusivität, Hingabe, Dringlichkeit, Begehren und Prahlen ergänzt.
 * Verhältnismäßigkeitsklausel für ambivalente Kippformen intensiver Bindung ergänzt.
 * Dominanz begrifflich stärker von Tyrannei, Zwang, Entwürdigung und dauerhafter Vereinnahmung abgegrenzt.
-* Neuer Abschnitt „Vereinigung ohne Selbstverlust“ in Teil I ergänzt.
-* Übergang zwischen Teil I und Teil II zur „Übertragungsregel“ umgearbeitet.
-* Neuer Unterabschnitt „Nähe, Messbarkeit und Verantwortung“ ergänzt.
+* Neuer Abschnitt **„Vereinigung ohne Selbstverlust“** in Teil I ergänzt.
+* Übergang zwischen Teil I und Teil II zur **Übertragungsregel** umgearbeitet.
+* Neuer Unterabschnitt **„Nähe, Messbarkeit und Verantwortung“** ergänzt.
 * Persönliche Beziehungen als praktischer und erkenntnisbezogener Verantwortungsraum eingeordnet, ohne daraus einen höheren Würdewert nahestehender Personen abzuleiten.
 * KI-Anschluss im Übergang vorsichtiger und prüfbarer formuliert.
 
@@ -453,7 +416,7 @@ Der neue Abschnitt stärkt daher die Unterscheidung zwischen bloßer Ordnung und
 * Verwirrende Nummerierung im Vorspann bereinigt.
 * Begriff „systemische Ebene“ im Vorwort entschärft, um kein starres Ebenenmodell anzudeuten.
 * Formulierungen zu Dominanz, Besitzsprache, Freiheit und Würde sprachlich präzisiert.
-* „Dominanz als Liebe tarnen“ durch die genauere Formulierung „Tyrannei als Liebe tarnen“ ersetzt.
+* „Dominanz als Liebe tarnen“ durch die genauere Formulierung **„Tyrannei als Liebe tarnen“** ersetzt.
 * Übergangsabschnitt sprachlich und logisch neu geordnet.
 
 ### Hinweis
@@ -462,7 +425,7 @@ Diese Fassung bleibt eine Arbeitsfassung. Schwerpunkt der Überarbeitung war die
 
 ---
 
-## Arbeitsfassung 0.3 – Charta des wahrhaftigen Wohlwollens – 28. Mai 2026
+## 2026-05-28 – Charta des wahrhaftigen Wohlwollens: Arbeitsfassung 0.3
 
 ### Hinzugefügt
 
@@ -482,7 +445,7 @@ Diese Fassung bleibt eine frühe Arbeitsfassung. Sie dient der weiteren Ausarbei
 
 ---
 
-## Arbeitsnotiz 0.1 – Kats Modell der neuen Pfade – 28. Mai 2026
+## 2026-05-28 – Kats Modell der neuen Pfade: Arbeitsnotiz 0.1
 
 ### Hinzugefügt
 
@@ -498,7 +461,7 @@ Diese Arbeitsnotiz bildet den frühen Ausgangspunkt für Kats Modell der neuen P
 
 ---
 
-## [0.1.0] - 2026-05-25
+## [0.1.0] – 2026-05-25
 
 ### Hinzugefügt
 
