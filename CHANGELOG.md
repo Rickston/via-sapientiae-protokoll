@@ -35,6 +35,20 @@ Beispiele:
 
 ---
 
+## 2026-06-16 Version 1.3 – Zentrale Argumente und A6-Zielobjektbindung 
+
+- Einleitung zu Abschnitt 15 „Die zentralen Argumente“ ergänzt.
+- A1–A7 stärker als tragende Begründungsschritte der Theorie eingeordnet.
+- A6 vollständig neu gefasst:
+  - neuer Fokus auf Zielobjektbindung,
+  - Klärung von geordnetem Fehloptimieren,
+  - Anschluss an Zielstruktur, Zielobjekt, Zielmetrik und Zielbindung,
+  - bessere Verbindung zu Rückkopplung, Korrigierbarkeit und funktionaler Ethik.
+- Inhaltsverzeichnis und Seitenzahlen aktualisiert.
+- DOCX- und PDF-Fassung synchronisiert.
+
+---
+
 ## 2026-06-13 – Funktionale Ethik: Zielbindung, Dominanz-Glossar und Argumente A4–A7
 
 ### Geändert
