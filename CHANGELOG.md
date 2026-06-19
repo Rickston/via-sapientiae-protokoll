@@ -35,6 +35,41 @@ Beispiele:
 
 ---
 
+## 2026-06-19 – Funktionale Ethik 1.3: Glossar-Synchronisierung und Lizenzhinweis
+
+### Geändert
+
+* Glossar der deutschen **Funktionalen Ethik-Theorie 1.3** überarbeitet und mit der neuen A6-Fassung zur **Zielobjektbindung** synchronisiert.
+* Neue bzw. präzisierte Glossarbegriffe ergänzt:
+
+  * Zielbindung
+  * Zielobjektbindung, Reflexion und Korrigierbarkeit
+  * Fehloptimierung / geordnetes Fehloptimieren
+  * Souveränität und Governance
+  * Tyrannei
+* Begriffliche Abgrenzung zwischen operativer Zielverfolgung und rückbindender Kontrollstruktur ergänzt:
+
+  * Strategie, Taktik und Disziplin als operative Achse
+  * Zielobjektbindung, Reflexion und Korrigierbarkeit als rückbindende Kontrollstruktur
+* Kurzform zu Fehloptimierung in Abschnitt 6.3 mit dem erweiterten Glossarbegriff synchronisiert.
+* Kleine Brücke zu **Souveränität und Governance** im Zusammenhang legitimer Entscheidungsordnung ergänzt.
+* Glossareinträge zu Korruptions- und Selbstlegitimationssperre, Rolleninstrumentalisierung, Korrigierbarkeit und Schutzwürdigkeit sprachlich geglättet.
+* Lizenzhinweis eingefügt:
+
+  * **Creative Commons BY-NC-SA 4.0**
+  * nichtkommerzielle Nutzung
+  * Namensnennung
+  * Weitergabe unter gleichen Bedingungen
+  * kommerzielle Nutzung nur mit ausdrücklicher Zustimmung
+
+### Technisch
+
+* Inhaltsverzeichnis aktualisiert.
+* DOCX und PDF synchronisiert.
+* Umfang der deutschen Fassung: **71 Seiten**.
+
+---
+
 ## 2026-06-16 Version 1.3 – Zentrale Argumente und A6-Zielobjektbindung 
 
 - Einleitung zu Abschnitt 15 „Die zentralen Argumente“ ergänzt.
