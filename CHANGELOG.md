@@ -35,6 +35,39 @@ Beispiele:
 
 ---
 
+## 2026-06-20 – Funktionale Ethik: Diskussionsfassung 1.3 inhaltlich abgeschlossen
+
+* **Funktionale Ethik-Theorie – Diskussionsfassung 1.3** inhaltlich abgeschlossen und als layoutfinaler Kontrollstand vorbereitet.
+* Vollständige Abschlussprüfung durchgeführt:
+
+  * Kapitelprüfung aller Teile,
+  * Gesamtprüfung des Dokuments im Zusammenhang,
+  * Kohärenzprüfung zentraler Begriffe,
+  * abschließender Feinschliff sensibler Formulierungen.
+* Kapitel 28 aktualisiert:
+
+  * Anschluss an **Reaktionshoheit**,
+  * **Charta des wahrhaftigen Wohlwollens**,
+  * **Kats Modell der neuen Pfade**,
+  * übergreifendes **Via-Sapientiae-Protokoll** als Rahmen, Bauplan, Leserführung und Gesamtdeutung.
+* Begriffliche Präzisierungen vorgenommen, u. a.:
+
+  * „Ethik“ in einem sensiblen Abschnitt zu **„funktionale Ethik“** präzisiert,
+  * „Fairness“ in einer Korruptions-/Rückkopplungsstelle durch **„Rückkopplungsfähigkeit“** ersetzt,
+  * „notwendig“ in der zentralen Kette auf **„für robuste Optimierung notwendig“** begrenzt.
+* Glossar um **Selbstbezug** ergänzt und Verhältnis von Selbstbezug, Reflexion, Zielbindung und Korrigierbarkeit präzisiert.
+* Interner begrifflicher Stresstest ergänzt, insbesondere gegen:
+
+  * Zirkularität,
+  * Verwechslung von Stabilität und Gutheit,
+  * Intelligenz-Automatismus,
+  * Dominanz-, Fehloptimierungs- und Feedbackblockade-Fälle.
+* Lizenz-, Schutz- und Nutzungsklausel geprüft und beibehalten.
+* Inhaltsverzeichnis aktualisiert und Layout-Kontrollstand als DOCX/PDF erzeugt.
+* Hinweis: Die Fassung gilt inhaltlich als abgeschlossen; eine letzte menschliche Layoutsichtung bleibt vorbehalten.
+
+---
+
 ## 2026-06-19 – Funktionale Ethik 1.3: Glossar-Synchronisierung und Lizenzhinweis
 
 ### Geändert
