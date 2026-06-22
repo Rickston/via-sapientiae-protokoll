@@ -34,6 +34,31 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 2026-06-22 – Funktionale Ethik-Theorie 1.3 finalisiert
+
+* Funktionale Ethik-Theorie auf Diskussionsfassung **Version 1.3** aktualisiert.
+* Kapitel 6 um den Abschnitt **Zielbindung** erweitert und die Begriffe Zielstruktur, Zielobjekt, Zielmetrik, Zielbindung, Reflexion und Korrigierbarkeit stärker voneinander abgegrenzt.
+* Kapitel 8 **Effizienz im Modell** präzisiert:
+
+  * Win-win-Strukturen werden nicht mehr als automatisch gleichmäßige Vorteilsverteilung verstanden.
+  * Ergänzt wurde ein enger Effizienzvergleich zwischen konzentriertem funktionalem Gesamtertrag und breiter verteilter Win-win-Struktur.
+  * Klargestellt wurde, dass Effizienz weder bloße kurzfristige Kostenminimierung noch automatische Vorrangregel für Profit, Gesamtmaximierung oder Gleichverteilung ist.
+* Abschließende Anmerkung zu **Normübernahme und abgeleiteter Güte** in Kapitel 29 ergänzt.
+
+  * Klargestellt wurde, dass auch weniger intelligente oder nicht voll reflexive Systeme gut handeln können, wenn sie tragfähige Normen übernehmen und korrigierbar in normative Ordnungen eingebettet bleiben.
+* Glossar überarbeitet und insbesondere die Einträge **Globale Optimierung** und **Effizienz** KI-sicherer und ausführlicher gefasst.
+* Separaten **KI-Lesehinweis zur Funktionalen Ethik-Theorie 1.3** als Begleitdokument ergänzt.
+
+  * Enthält maschinenlesbare Orientierung, Schutzregeln, Nichtableitungen und Anwendungsgrenzen.
+* Kapitel 34 um einen kurzen Verweis auf den KI-Lesehinweis ergänzt.
+* Layout final geprüft:
+
+  * hängende Überschriften und Labelzeilen bereinigt,
+  * leere Schlussseite entfernt,
+  * Kursivformatierungen in Kapitel 1 und Kapitel 3 wiederhergestellt,
+  * finale DOCX- und PDF-Fassung erzeugt.
+
+---
 
 ## 2026-06-20 – Funktionale Ethik: Diskussionsfassung 1.3 inhaltlich abgeschlossen
 
