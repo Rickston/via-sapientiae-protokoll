@@ -34,6 +34,13 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+
+## 2026-07-02 – Funktionale Ethik, Version 1.3 – Kapitel 8 aktualisiert
+
+Kapitel 8 („Effizienz im Modell“) wurde inhaltlich erweitert und präzisiert. Effizienz wird nun ausdrücklich als mögliche Form von Optimierung beschrieben, nicht als Optimierung überhaupt. Ergänzt wurden verschiebbare lokale/globale Bezugsebenen, die Zulässigkeit lokaler Optimierung bei verhältnismäßigen Kosten, die Abgrenzung von Win-win-Strukturen gegenüber globalerer Optimierung mit deutlich höherem funktionalem Mehrwert sowie die Gegenregel, dass lokalere Lösungen vorzugswürdig sein können, wenn globaler auftretende Lösungen Schäden, Fehlanreize oder Instabilitäten erzeugen. Zusätzlich wurde der Sonderfall lokaler Optimierung als „Türöffner“ für zukünftige Handlungsräume aufgenommen, jedoch mit erhöhter Begründungslast und strengen Anforderungen an Verhältnismäßigkeit, Schutzwürdigkeit und Rückkopplung. Die Beispiele zu Kapitel 8 bleiben als späterer Ausbaupunkt vorgemerkt.
+
+---
+
 ## 2026-06-22 – Funktionale Ethik-Theorie 1.3 finalisiert
 
 * Funktionale Ethik-Theorie auf Diskussionsfassung **Version 1.3** aktualisiert.
