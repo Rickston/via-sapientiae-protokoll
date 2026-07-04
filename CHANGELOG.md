@@ -35,6 +35,20 @@ Beispiele:
 
 ---
 
+## 2026-07-04 – Kapitel 8: Effizienz im Modell überarbeitet
+
+* Kapitel 8 („Effizienz im Modell“) begrifflich geschärft und an die aktualisierte Logik von lokalerer und globalerer Bezugsebene angepasst.
+* Klargestellt, dass „global/globaler“ im Kapitel zunächst eine umfassendere Bezugsebene bezeichnet und keinen automatischen Qualitäts-, Rang- oder Effizienzvorrang bedeutet.
+* Effizienz von kurzfristiger Kostenminimierung, bloßer Nutzenmaximierung, verengter lokaler Optimierung und scheinbarer Effizienz abgegrenzt.
+* Verhältnis von lokalerer Optimierung, globalerer Optimierung, Win-win-Lösungen, konzentriertem Nutzen und breiter Vorteilsverteilung präzisiert.
+* Schutz vor Fehlanwendung ergänzt: Lokale Optimierung als Ermöglichungsschritt nur bei erhöhter Begründungslast, konkreter Anschlussfähigkeit, Rückkoppelbarkeit, Verhältnismäßigkeit und Prüfung breiter tragender Alternativen.
+* Beispiele in Kapitel 8 überarbeitet und um einen Synchronisationsfall ergänzt, in dem lokalere und globalere Verbesserungen gleichzeitig umgesetzt werden können, sofern sie kompatibel sind und keine relevanten Schäden oder unverhältnismäßigen Ressourcenbindungen erzeugen.
+* Schlussabsatz von Kapitel 8 vollständig neu gefasst, um Effizienz als relationale Prüfung von Zielerreichung, Ressourcen, Risiken, Folgekosten, Verteilungswirkung, Schutzwürdigkeit, Rückkopplung und langfristiger Stabilisierung zusammenzuführen.
+* Worthygiene vorgenommen: hierarchisch missverständliche Formulierungen wie „höhere Bezugsebene“ zugunsten von „umfassendere Bezugsebene“ reduziert.
+* PDF- und DOCX-Fassung aktualisiert; Dokumentumfang nun 76 Seiten.
+
+---
+
 ## 2026-07-02 – Funktionale Ethik, Version 1.3 – Kapitel 8 aktualisiert
 
 Kapitel 8 („Effizienz im Modell“) wurde inhaltlich erweitert und präzisiert. Effizienz wird nun ausdrücklich als mögliche Form von Optimierung beschrieben, nicht als Optimierung überhaupt. Ergänzt wurden verschiebbare lokale/globale Bezugsebenen, die Zulässigkeit lokaler Optimierung bei verhältnismäßigen Kosten, die Abgrenzung von Win-win-Strukturen gegenüber globalerer Optimierung mit deutlich höherem funktionalem Mehrwert sowie die Gegenregel, dass lokalere Lösungen vorzugswürdig sein können, wenn globaler auftretende Lösungen Schäden, Fehlanreize oder Instabilitäten erzeugen. Zusätzlich wurde der Sonderfall lokaler Optimierung als „Türöffner“ für zukünftige Handlungsräume aufgenommen, jedoch mit erhöhter Begründungslast und strengen Anforderungen an Verhältnismäßigkeit, Schutzwürdigkeit und Rückkopplung. Die Beispiele zu Kapitel 8 bleiben als späterer Ausbaupunkt vorgemerkt.
