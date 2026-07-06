@@ -34,6 +34,42 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 2026-07-06 Version 1.4 – Relationale Synchronisation, Effizienz und Glossar
+
+* Kapitel 8 „Effizienz im Modell“ grundlegend nachgeschärft:
+
+  * Effizienz als relationale Prüfung zwischen Zielerreichung, Ressourcen, Risiken, Folgekosten, Verteilungswirkung, Schutzwürdigkeit, Rückkopplung und langfristiger Stabilisierung präzisiert.
+  * Lokale und globalere Optimierung klarer als relationale Bezugsebenen gefasst.
+  * Win-win-Strukturen als kompatible Verbesserungen auf mehreren Bezugsebenen ergänzt und logisch abgegrenzt.
+  * Zirkularitätsnahe Formulierungen reduziert.
+
+* Glossar erweitert und synchronisiert:
+
+  * „Bezugsebene“ als eigenständiger Referenzbegriff aufgenommen.
+  * „Lokale Optimierung“, „Globale Optimierung“ und „Effizienz“ an die relationale Kapitel-8-Fassung angepasst.
+  * „Win-win-Struktur“ als eigener Glossarbegriff ergänzt.
+  * Begriffe auf KI-Anschlussfähigkeit, Suchbarkeit und begriffliche Konsistenz hin präzisiert.
+
+* Relationale Synchronisation im Hauptdokument durchgeführt:
+
+  * Verwendungen von „lokal“, „global“, „globaler“, „globale Effizienz“ und verwandten Begriffen geprüft und dort angepasst, wo sie zu absolut, missverständlich oder nicht mehr glossarkonform waren.
+  * Besonders relevante Anpassungen in den Abschnitten zu lokaler/globaler Optimierung, realen Systemabweichungen, Ausbeutungssystemen, Defekteuren, gefährlichen KI-Dynamiken, Dominanz, externer Stabilisierung und der Konvergenzaussage vorgenommen.
+  * „Global“ stärker als „globalere“ beziehungsweise umfassendere Bezugsebene gefasst, ohne daraus eine automatische Vorrangregel, Totalmaximierung oder Opferlogik abzuleiten.
+
+* KI-Anschlussfähigkeit verbessert:
+
+  * Engere Bezugsebenen, verengte Zielmetriken, Rückkopplung, Schutzwürdigkeit und Einbettung bei gefährlichen KI-Dynamiken präziser herausgearbeitet.
+  * Formulierungen stärker analytisch, prüfbar und weniger rhetorisch gefasst.
+
+* Layout und technische Fassung bereinigt:
+
+  * Harte Absatztrennungen korrigiert.
+  * Inhaltsverzeichnis aktualisiert.
+  * Dokumentversion auf Diskussionsfassung 1.4 gesetzt.
+  * Metadaten bereinigt.
+  * PDF-Fassung aus der finalen Docx erzeugt.
+
+---
 
 ## 2026-07-04 – Kapitel 8: Effizienz im Modell überarbeitet
 
