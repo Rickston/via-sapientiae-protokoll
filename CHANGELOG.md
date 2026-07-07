@@ -34,6 +34,19 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 2026-07-07
+# Funktionale Ethik-Theorie – Diskussionsfassung 1.4  
+# Robustheitsmarker nach externer KI-Prüfung
+
+- Die kompakte Darstellung der zentralen Argumentationskette in Abschnitt 3 wurde durch eine vertikale, besser lesbare Kettendarstellung ersetzt.
+- In Abschnitt 6.4 wurde ein KI-Anschlussmarker ergänzt, der die Bedeutung von Zielobjekt/Zielmetrik, Fehlspezifikation, Rückkopplungsverlust und Fehloptimierung für KI-Sicherheit hervorhebt.
+- In Abschnitt 11 wurde Schutzwürdigkeit als funktional verstandene Vorsichtsregel gegen vorschnelle Instrumentalisierung und Beschädigung möglicher Träger strukturierter Differenz präzisiert.
+- In Abschnitt 14.1 wurde ein Prüfbegriffsmarker ergänzt: Begriffe wie „unnötig“, „vermeidbar“, „hinreichender Grund“, „Schädigung“ und „Dominanz“ werden als funktionale Prüfbegriffe eingeordnet und gegen Selbstzertifizierung abgesichert.
+- In Abschnitt 25 wurde ein KI-Wegweiser ergänzt, der die vier zentralen Prüfachsen für KI-Anschlussfähigkeit bündelt: Zielobjekt/Zielmetrik, Rückkopplung/Korrigierbarkeit, strukturierte Differenz/externe Widerständigkeit sowie Machtbegrenzung/Allmacht-Falle.
+- Im Glossar wurde ein neuer Eintrag zu „Konfidenz“ ergänzt, einschließlich Scheinkonfidenz und methodischer Restskepsis.
+- Der Glossareintrag „Hinreichender Grund“ wurde entsprechend nachnummeriert.
+- Inhaltsverzeichnis, Seitenstand und PDF-Fassung wurden aktualisiert.
+---
 ## 2026-07-06 Version 1.4 – Relationale Synchronisation, Effizienz und Glossar
 
 * Kapitel 8 „Effizienz im Modell“ grundlegend nachgeschärft:
