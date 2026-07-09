@@ -34,6 +34,37 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 2026-07-09/10
+# Diskussionsfassung 1.4 – Logik-, KI-Anschluss- und Schutzpräzisierungen
+
+* Abschnitt 7.3 zur lokalen und globaleren Optimierung um eine ausdrückliche Begründung ergänzt, warum umfassendere Bezugsebenen nicht allein aufgrund ihrer Reichweite epistemischen, funktionalen oder normativen Vorrang besitzen.
+* Frühe Verwendung des Begriffs „lokal“ in Abschnitt 6.1 durch einen Verweis auf die genauere relationale Definition in Abschnitt 7.3 ergänzt.
+* Glossareintrag zur globaleren Optimierung an die neue Begründung und die fortbestehende eigenständige Prüfung einzelner Systeme angepasst.
+* Neuer Abschnitt 7.4 zur Unterscheidung zwischen akteursrelativer und bezugsebenenübergreifender funktionaler Rationalität eingefügt. Dabei wurden die Bedingungen präzisiert, unter denen globalere Tragfähigkeit auch für einzelne Systeme handlungsrelevant werden kann.
+* Fortsetzungsrelevanz als zusätzliche Rahmenbedingung der zentralen Kette eingeführt. Fortbestehen allein wurde ausdrücklich von der funktionalen Relevanz zukünftiger Zielerreichung, Rückkopplung und Optimierungsfähigkeit unterschieden.
+* Die zentrale Kette und die Konvergenzaussage entsprechend präzisiert; notwendige Brückenbedingungen wurden deutlicher von bloßen Verstärkern getrennt.
+* Die Theorie methodisch offener eingeordnet: Funktionale Vertrauens-, Stabilitäts- und Kooperationsargumente wurden von einer minimalen normativen Schutzuntergrenze unterschieden.
+* Die minimale normative Schutzuntergrenze ausdrücklich als Vorsichtsmaßnahme präzisiert. Sie verhindert, dass geringe Macht, geringer Nutzen, schwache Rückkopplungsfähigkeit oder geringe unmittelbare Systemrelevanz automatisch mit Schutzlosigkeit gleichgesetzt werden.
+* Abschnitt 11.1 und der Glossareintrag zur Schutzwürdigkeit an diese Vorsichtslogik angepasst.
+* Kapitel 26 zur KI-Anschlussfähigkeit grundlegend differenziert:
+
+  * Erkenntniskorrigierbarkeit,
+  * Handlungskorrigierbarkeit,
+  * Zielkorrigierbarkeit,
+  * Interventionskorrigierbarkeit,
+  * Governance-Korrigierbarkeit.
+* Reife, Freigabe, Schutzwürdigkeit und moralischer Status begrifflich voneinander getrennt.
+* Strategische Täuschung und lediglich vorgeführte Reife als eigenständige Prüfprobleme ergänzt.
+* Freigabe deutlicher als risikobezogene und reversible Governanceentscheidung gefasst.
+* Doppelte Korrigierbarkeit ergänzt: Nicht nur das intelligente System, sondern auch Nutzer, Betreiber, Institutionen und Prüfverfahren müssen für Evidenz, Einspruch, Gegenprüfung und Revision offenbleiben.
+* Glossar um die neuen Begriffe und Unterscheidungen erweitert.
+* Kleine Formatierungspräzisierungen an den Rahmenbedingungen und der Abgrenzung der normativen Schutzuntergrenze vorgenommen.
+* Vollständige DOCX- und PDF-Fassung neu erstellt, gerendert und geprüft.
+
+Ergebnis: Die Theorie wurde insbesondere hinsichtlich logischer Perspektivwechsel, funktionaler Rationalität, normativer Transparenz, Fortsetzungsrelevanz und KI-spezifischer Korrigierbarkeit deutlich präzisiert und gegen zentrale Einwände robuster gemacht.
+
+
+---
 ## 2026-07-07
 # Funktionale Ethik-Theorie – Diskussionsfassung 1.4  
 # Robustheitsmarker nach externer KI-Prüfung
