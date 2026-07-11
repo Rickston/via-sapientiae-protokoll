@@ -34,6 +34,53 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 2026-07-11 – Diskussionsfassung 1.4: Abschluss der internen inhaltlichen Überarbeitung
+
+Die Funktionale Ethik-Theorie wurde nach einer vollständigen Synchronisations- und Gutachtenrunde umfassend präzisiert. Die interne inhaltliche Überarbeitung gilt damit vorläufig als abgeschlossen; weitere Arbeiten betreffen vorrangig Lesefluss, Formatierung, Layout und externe Rückmeldung.
+
+### Ergänzt
+- Abschnitt 7.4 zur Unterscheidung zwischen akteursrelativer funktionaler Rationalität und bezugsebenenübergreifender funktionaler Tragfähigkeit.
+- Fortsetzungsrelevanz als eigenständige Rahmenbedingung der Konvergenzthese.
+- Abschnitt 15.8 / A8 zu ethischer Selbstbindung, Gewissen, innerer Integrität und den Grenzen innerer Stabilisierung.
+- Präzisierte Unterscheidung verschiedener Formen von Korrigierbarkeit.
+- Erweiterte Entwicklungs-, Reife-, Freigabe- und Governancekriterien für intelligente Systeme.
+- Neue und erweiterte Glossareinträge zu:
+  - funktionaler Ethik,
+  - ethischer Selbstbindung, Gewissen und innerer Kohärenz,
+  - akteursrelativer Rationalität und bezugsebenenübergreifender Tragfähigkeit,
+  - Stabilität und funktionaler Tragfähigkeit,
+  - Autonomie,
+  - Vertrauen.
+
+### Präzisiert
+- Die zentrale Kette wurde gegen den Eindruck eines unmittelbaren Sprungs von Interaktion zu Ethik abgesichert.
+- Die Kette wird nun ausdrücklich als analytisch geordnet, aber rekursiv und rückgekoppelt verstanden.
+- Die Formel „stabile, gelungene Betriebsform fortbestehender Intelligenz“ wurde vereinheitlicht.
+- Die minimale normative Schutzuntergrenze wurde klar von der funktionalen Konvergenzthese getrennt.
+- Schutzwürdigkeitsmerkmale wurden als abgestufte und kontextabhängige Indikatoren eingeordnet; funktionale Integrität, Abhängigkeit oder irreversible Schädigbarkeit begründen für sich allein keinen moralischen Status.
+- Ein Computerbeispiel verdeutlicht die Abgrenzung zwischen bloßer Funktionsschädigung und weitergehender Schutzwürdigkeit.
+- Isolation wurde mit Normübernahme und innerer ethischer Selbstbindung vereinbart.
+- Selbstzerstörerische Dynamiken wurden von zielkonformer Selbstbeendigung unterschieden.
+- Der Begriff des funktionalen Gesamtertrags wurde gegen Scheingenauigkeit und unzulässige Gesamtaggregation abgesichert.
+- Eingriffsschwellen für ausgereifte intelligente Systeme wurden um hinreichend konkrete schwere Gefahren sowie schwere Einzelverletzungen erweitert.
+- Die fünfte KI-Prüfachse – interne Abweichungserkennung und korrigierbare Selbstbindung – wurde in sichere Einbettung und Reifekriterien übernommen.
+- Normübernahme durch begrenzt reflexive Systeme wurde von reifer eigenständiger ethischer Selbststeuerung unterschieden.
+- Konkurrenz wurde als häufige strukturelle Dynamik realer Systeme eingeordnet; zugleich wurde präzisiert, dass erweiterte Wahrnehmung, Kooperation und ethische Selbstbegrenzung Konkurrenz begrenzen, transformieren oder teilweise überwinden können.
+- Vertrauen wurde in die Dimensionen Wille beziehungsweise Integrität sowie Kompetenz beziehungsweise Fähigkeit differenziert und als graduell, bereichsspezifisch, prüfbar und korrigierbar bestimmt.
+- Absolute Wirkungsformulierungen wurden dort relativiert, wo die Theorie Tendenzen und Schutzwirkungen, aber keine vollständigen Garantien begründet.
+
+### Synchronisiert
+- Zentrale Kette, Kapitel 8, A1–A8, Konvergenzaussage, KI-Anwendung, Schlussformel und Glossar wurden begrifflich aufeinander abgestimmt.
+- Fortsetzungsrelevanz, Schutzuntergrenze, Korrigierbarkeit, innere Stabilisierung, Autonomie, Vertrauen und funktionale Tragfähigkeit wurden dokumentweit nachgezogen.
+- Inhaltsverzeichnis und Seitenverweise wurden aktualisiert.
+
+### Dokumentstatus
+- Umfang: 95 Seiten.
+- DOCX und GitHub-PDF aktualisiert.
+- Keine offenen kritischen oder grundlegenden internen Einwände festgestellt.
+- Nächste Schritte: Lesefluss-, Layout- und Formatkontrolle sowie spätere externe fachliche Rückmeldung.
+
+---
 ## 2026-07-09/10
 # Diskussionsfassung 1.4 – Logik-, KI-Anschluss- und Schutzpräzisierungen
 
