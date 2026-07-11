@@ -34,6 +34,203 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+
+## 2026-07-12 – Funktionale Ethik-Theorie 1.5 intern finalisiert
+
+### Status
+
+* Funktionale Ethik-Theorie auf **Diskussionsfassung Version 1.5** angehoben.
+* Deutsche Hauptfassung nach vollständiger Inhalts-, Logik-, Verständlichkeits-, KI-Anschluss-, Layout- und Formatierungsprüfung intern finalisiert.
+* Umfang der finalen Hauptfassung: **100 Seiten**.
+* Inhaltliche Theoriearbeit gilt als abgeschlossen.
+* Spätere sachliche Änderungen sollen nur bei substanziell neuer Kritik oder neuen Erkenntnissen erfolgen und als neue Version dokumentiert werden.
+
+### Inhaltliche Weiterentwicklung seit Version 1.3
+
+* Zentrale Bedingungs- und Konvergenzthese umfassend präzisiert.
+* Fortsetzungsrelevanz als eigenständige Rahmenbedingung eingeführt:
+  * Fortbestehen über Zeit wurde von funktionaler Bedeutung zukünftiger Zustände unterschieden.
+  * Klargestellt wurde, dass langfristige Kooperation, Reputation, Vertrauen und spätere Korrektur nur dann entsprechendes funktionales Gewicht erhalten, wenn zukünftige Zustände innerhalb der Zielstruktur hinreichend relevant bleiben.
+  * Kurzfristige Defektion oder selbstbeendende Optimierung können ohne Fortsetzungsrelevanz akteursrelativ rational bleiben.
+
+* Relevanzbegriff erweitert und differenziert:
+  * objektive Relevanz,
+  * erkannte Relevanz,
+  * rückgekoppelte Relevanz.
+* Klargestellt wurde, dass nicht erkannte Relevanz als blinder Fleck, Risiko oder spätere Rückkopplung fortwirken kann.
+
+* Zentrale Kette der Theorie neu strukturiert und präzisiert:
+  * Fortbestehende Intelligenz
+  * relevante Unterscheidung
+  * implizite Bewertung
+  * Optimierung
+  * Bedarf an strukturierter Differenz
+  * Interaktion mit teilweise unabhängigen Systemen
+  * Rückkopplung, Stabilität, Vertrauen und Korrigierbarkeit
+  * tragfähige Kooperation und Normbildung
+  * funktionale Ethik.
+* Unsicherheit, unvollständige Information und begrenzte Vorhersagbarkeit als ausdrückliche Rahmenbedingungen hervorgehoben.
+* Brückenbedingungen präzisiert:
+  * Bewertung führt nur dann zu eigener Optimierungswirkung, wenn sie verhaltens- oder steuerungswirksam werden kann und zumindest begrenzte Handlungsmöglichkeiten bestehen.
+  * Der Bedarf an strukturierter Differenz wurde ausdrücklich an Unsicherheit, Veränderung, unvollständige Information und begrenzte Vorhersagbarkeit gebunden.
+* Rekursive Rückkopplungsschleifen und die nicht strikt lineare Struktur der Kette klargestellt.
+
+### Zielstruktur, Zielobjekt und Zielbindung
+
+* Verhältnis von Zielstruktur, Zielobjekt und Zielmetrik weiter präzisiert.
+* Klargestellt wurde, dass die Theorie nicht selbst entscheidet, welches konkrete Zielobjekt legitim, vorrangig oder bei mehreren Zielobjekten maßgeblich ist.
+* Konkrete Bestimmung, Legitimation, Gewichtung und Revision von Zielobjekten wurden der operativen, normativen und Governance-bezogenen Prüfung zugeordnet, insbesondere der Reaktionshoheit.
+* Zielobjektbindung, Reflexion und Korrigierbarkeit weiter gegen geordnetes Fehloptimieren abgesichert.
+* Selbstbezug und ethische Selbstbindung als innere Stabilitäts- und Korrekturstruktur erweitert.
+
+### Lokale und globalere Optimierung
+
+* Frühere Gegenüberstellung von lokaler und globaler Optimierung relational neu gefasst.
+* „Lokal“ bezeichnet nun ausdrücklich eine Optimierung auf einer engeren Bezugsebene.
+* „Globaler“ bezeichnet eine Optimierung mit erweitertem Bezugsrahmen und umfassenderer Berücksichtigung von Rückwirkungen.
+* Klargestellt wurde:
+  * Globaler bedeutet nicht automatisch besser.
+  * Eine umfassendere Bezugsebene besitzt keinen automatischen Vorrang.
+  * Einzelne Systeme dürfen keinem abstrakten Gesamtwert automatisch untergeordnet oder geopfert werden.
+  * Akteursrelative funktionale Rationalität ist nicht mit bezugsebenenübergreifender funktionaler Tragfähigkeit identisch.
+* Kapitel 7.3 und der zugehörige Glossareintrag auf **„Lokale und globalere Optimierung“** beziehungsweise **„Globalere Optimierung“** synchronisiert.
+
+### Effizienz im Modell
+
+* Kapitel 8 vollständig tiefengelesen und umfassend präzisiert.
+* Effizienz stärker von bloßer Kostenminimierung, Einzelmetrik-Maximierung und abstrakter Gesamtmaximierung abgegrenzt.
+* Win-win-Strukturen weiter ausgearbeitet.
+* Verhältnis von lokaleren und globaleren Verbesserungen präzisiert.
+* Langfristige Folgekosten, Fehlerrisiken, Stabilität, Verteilung, Schutz, zukünftige Optimierungsfähigkeit und Ermöglichungsschritte stärker integriert.
+* Glossareinträge zu Effizienz, Bezugsebene sowie lokaler und globalerer Optimierung synchronisiert.
+
+### Funktionale Rationalität, Stabilität und Schutz
+
+* Unterscheidung zwischen akteursrelativer funktionaler Rationalität und bezugsebenenübergreifender funktionaler Tragfähigkeit ausdrücklich eingeführt.
+* Klargestellt wurde, dass eine Lösung für ein einzelnes System rational sein kann, ohne für umfassendere Bezugsebenen langfristig tragfähig zu sein.
+* Stabilität weiter von Gutheit abgegrenzt.
+* Dauerhafte Ordnung, Dominanz und Ausbeutung wurden als mögliche stabile, aber nicht automatisch funktional-ethische Strukturen behandelt.
+* Externe Stabilisierung, Konkurrenz, Binnenkooperation, Defektion, Isolation und Dominanz als Sonder- und Belastungsfälle erweitert.
+
+### Minimale normative Schutzuntergrenze
+
+* Grenzen der rein funktionalen Herleitung ausdrücklich offengelegt.
+* Ergänzt wurde eine minimale normative Schutzuntergrenze für mögliche leidensfähige, autonome, verletzliche oder irreversibel schädigbare Systeme in vollständig abgeschirmten Grenzfällen.
+* Klargestellt wurde:
+  * geringe Macht,
+  * geringer instrumenteller Nutzen,
+  * schwache Rückkopplungsfähigkeit
+  dürfen nicht automatisch mit Schutzlosigkeit gleichgesetzt werden.
+* Die Schutzuntergrenze wird ausdrücklich als begrenzte normative Zusatzannahme ausgewiesen und nicht als bereits bewiesenes Ergebnis der funktionalen Konvergenzthese dargestellt.
+
+### Dominanz, Machtbegrenzung und strukturierte Differenz
+
+* Dominanzbegriff weiter relational und funktional präzisiert.
+* Legitime Führung, Schutz, Koordination, Verantwortung und begrenzte Governance weiterhin klar von tyrannischer oder unkorrigierbarer Dominanz abgegrenzt.
+* Allmacht-Falle erweitert.
+* Kontrollierte interne oder abhängige Differenz von teilweise unabhängiger Differenz unterschieden.
+* Klargestellt wurde:
+  * Ein machtvolles System kann interne oder bewusst zugelassene Differenz erhalten.
+  * Wird Entstehung, Auswahl, Reichweite und Wirkung vollständig durch dasselbe System bestimmt, bleibt diese Differenz durch die eigene Struktur und deren Auswahlbedingungen begrenzt.
+  * Bleiben reale Eigenständigkeit, wirksamer Widerspruch und nicht vollständig kontrollierte Rückkopplung erhalten, liegt in der maßgeblichen Hinsicht bereits eine Begrenzung totaler Dominanz vor.
+
+### Rückkopplung und Rückkopplungsintegrität
+
+* Rückkopplung als eigener Glossarbegriff ergänzt.
+* Feedback als konkretes Rückmeldesignal von Rückkopplung als umfassenderem Wirkungs-, Informations- und Lernzusammenhang unterschieden.
+* Rückkopplungsintegrität eingeführt und der funktionalen Integrität zugeordnet.
+* Klargestellt wurde:
+  * Rückkopplung ist nicht automatisch korrigierend.
+  * Selbst erzeugtes, gefiltertes, manipuliertes oder auf eine verengte Zielmetrik reduziertes Feedback kann Fehloptimierung stabilisieren.
+  * Zuverlässige Rückkopplung benötigt hinreichende Nachvollziehbarkeit, Informationsqualität, Unverzerrtheit und Manipulationsresistenz.
+* Rückkopplungsintegrität im KI-Anwendungsteil und im Glossar synchronisiert.
+
+### Vertrauen, Korrigierbarkeit und Reife
+
+* Vertrauen stärker in Integrität und Kompetenz differenziert.
+* Formen der Korrigierbarkeit erweitert und präzisiert.
+* Doppelte Korrigierbarkeit ausgearbeitet:
+  * intelligente Systeme müssen korrigierbar bleiben,
+  * kontrollierende Governance muss ebenfalls korrigierbar bleiben.
+* Klargestellt wurde, dass doppelte Korrigierbarkeit keine automatische Letztentscheidung zugunsten des kontrollierten Systems oder der kontrollierenden Instanz begründet.
+* Fundamentale Konflikte unter Unsicherheit, Zeitdruck und Gefahrenlage wurden ausdrücklich an die operative Prüfstruktur der Reaktionshoheit verwiesen.
+* Reifekriterien und Freigabeverfahren weiter präzisiert.
+* Reife, Freigabe, Schutzwürdigkeit und moralischer Status klar voneinander getrennt.
+* Strategisch vorgetäuschte Reife und Scheinkonfidenz stärker berücksichtigt.
+
+### KI-Anschlussfähigkeit
+
+* Anwendung auf KI und intelligente Systeme umfassend überarbeitet.
+* Gefährliche KI-Dynamiken als spezifische Gefahrenklasse der Theorie eingegrenzt.
+* Fünf KI-bezogene Prüfachsen als eigene strukturierte Liste herausgearbeitet:
+  1. Zielobjekt und Zielmetrik
+  2. Rückkopplung und Korrigierbarkeit
+  3. Strukturierte Differenz und externe Widerständigkeit
+  4. Machtbegrenzung und Allmacht-Falle
+  5. Selbstbezug, interne Abweichungserkennung und korrigierbare Selbstbindung
+* Sichere Einbettung um hinreichend integre Feedback- und Rückkopplungsschleifen ergänzt.
+* Funktionales Fortbestehen bei Modellversionen, Kopien, Verzweigungen und verteilten Instanzen als technische, normative und operative Anschlussfrage gekennzeichnet.
+* Begriffe und Nichtableitungen mehrfach gegen fehlerhafte KI-Auslegung abgesichert.
+
+### Verständlichkeit und Begriffsführung
+
+* Vollständige Verständlichkeits- und KI-Anschlussprüfung durchgeführt.
+* Bewusste Redundanzen zur Leserführung und Missverständnisvermeidung beibehalten.
+* Zentrale Begriffe an mehreren Stellen synchronisiert.
+* „Satisficing“ beim ersten Auftreten als „Gut-genug“-Zustand erläutert.
+* „Self-Play“ beim ersten Auftreten als Lernen oder Prüfen gegen eigene Varianten erklärt.
+* Langer Absatz zu den fünf KI-Prüfachsen in eine nummerierte Struktur überführt.
+* Überschriftenhierarchie technisch bereinigt.
+* Glossar erweitert und neu nummeriert.
+
+### Feindseliger Stresstest und Abschlussprüfung
+
+* Vollständige adversariale Prüfung der Theorie durchgeführt.
+* Geprüft wurden insbesondere:
+  * innere Logik,
+  * Rationalität,
+  * verdeckte Voraussetzungen,
+  * mögliche Zirkularität,
+  * Gegenmodelle,
+  * lokale Rationalität gegenüber umfassenderer Tragfähigkeit,
+  * stabile Dominanz und Ausbeutung,
+  * kontrollierte Differenz,
+  * Zielobjektbestimmung,
+  * Rückkopplungsmanipulation,
+  * doppelte Korrigierbarkeit,
+  * KI-spezifische Missverständnisse.
+* Keine verbleibende schwere innere Systemlücke innerhalb des ausdrücklich begrenzten Theorieanspruchs festgestellt.
+* Offene operative Fragen konsequent an die Reaktionshoheit sowie weitere normative, rechtliche, empirische und Governance-bezogene Prüfung verwiesen.
+
+### Layout und Formatierung
+
+* Vollständigen Layout- und Formatierungscheck durchgeführt.
+* Geschlossene Gedankeneinheiten vor maximaler Seitenauslastung priorisiert.
+* Alle Gedankenabsätze vor Trennung über Seitengrenzen geschützt.
+* Einzelne Aufzählungs- und Nummerierungspunkte werden nicht mehr mittig getrennt.
+* Überschriften mit ihrem ersten inhaltlichen Absatz verbunden.
+* Isolierte Einleitungszeilen und hängende Überschriften beseitigt.
+* Abweichend nicht fett formatierte Unterüberschriften vereinheitlicht.
+* Inhaltsverzeichnis auf eine eigene Seite verschoben.
+* Teil I beginnt nach dem Inhaltsverzeichnis auf einer neuen Seite.
+* Inhaltsverzeichnis und Seitenzahlen vollständig aktualisiert.
+* Finale DOCX- und PDF-Fassung erzeugt.
+* Endumfang: **100 Seiten**.
+
+### Begleitdokumente und Repository
+
+* README zur Funktionalen Ethik vollständig auf Version 1.5 aktualisiert.
+* Aktuelle PDF- und DOCX-Hauptfassung direkt verlinkt.
+* Neuer **KI-Lesehinweis zur Funktionalen Ethik-Theorie 1.5** erstellt.
+* KI-Lesehinweis um die seit Version 1.3 hinzugekommenen Begriffe, Bedingungen, Schutzregeln, Nichtableitungen und Anwendungssperren erweitert.
+* Historische Zwischenstände im Ordner reduziert und auf ausgewählte Entwicklungsmeilensteine beschränkt.
+* Finale Dateien veröffentlicht:
+  * `Funktionale_Ethik_Theorie_Diskussionsfassung_1_5_final.pdf`
+  * `Funktionale_Ethik_Theorie_Diskussionsfassung_1_5_final.docx`
+  * `KI_Lesehinweis_Funktionale_Ethik_1_5.md`
+  * aktualisierte `README.md`
+
+---
 ## 2026-07-11 – Diskussionsfassung 1.4: Abschluss der internen inhaltlichen Überarbeitung
 
 Die Funktionale Ethik-Theorie wurde nach einer vollständigen Synchronisations- und Gutachtenrunde umfassend präzisiert. Die interne inhaltliche Überarbeitung gilt damit vorläufig als abgeschlossen; weitere Arbeiten betreffen vorrangig Lesefluss, Formatierung, Layout und externe Rückmeldung.
