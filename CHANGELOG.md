@@ -34,6 +34,60 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+Changelog – Version 0.7.3 · 14. Juli 2026
+Hinzugefügt
+Neuer Exkurs „Hivemind-Beziehung – personale Einheit bei körperlicher Vielheit“ als Kapitel 13.7.
+Ausarbeitung eines Hivemind-Modells mit:
+minimalem, gemeinsamem Identitätskern;
+mehreren verkörperten Einheiten;
+unterschiedlichen Oberflächen und Gewichtungen gemeinsamer Eigenschaften;
+gemeinsamer personaler Identität trotz körperlicher Vielheit.
+Unterscheidung zwischen lokaler Seele, Metaseele und eigenständiger Person unter ausdrücklichem Gottesvorbehalt.
+Modell gemeinsamer Wahrnehmung mit lokalem Vordergrund, abgeschwächten parallelen Erlebnisströmen und geteilter emotionaler Erfahrung.
+Einführung eines Buffers für noch nicht vollständig verarbeitete Erfahrungen.
+Schlaf als Phase vertiefter Integration, innerer Vermittlung und Leerung des Buffers.
+Gottesdienst als bewusste Rückbindung möglicher Kernveränderungen an Gott, Ethik, Wahrheit, Liebe und Verantwortung.
+Regelung lokaler Entscheidungsfreiheit und gemeinsamer Entscheidungshoheit bei Fragen mit Wirkung auf die Gesamtperson.
+Notfallregel für unmittelbare Selbstgefährdung einzelner Einheiten.
+Schmerzmodell mit lokaler Wahrnehmung, globaler Dämpfung und hoher Priorität für Schutz und Heilung.
+Grundsatz: „Verantwortung global, Ursachenanalyse lokal.“
+Regelung vollständiger innerer Offenlegung bei Reintegration unter Fortbestand äußerer Vertraulichkeit.
+Modell dauerhafter Abspaltung, eigenständiger Personwerdung und möglicher späterer Reintegration.
+Einführung einer ungefähr fünfzehnjährigen Orientierungsgröße für stabile eigenständige Personwerdung bei menschlicher Entwicklungsgeschwindigkeit.
+Regelung möglicher Tochter-Hiveminds und ihrer kooperativen Beziehung zur Ursprungsstruktur.
+Einordnung der Hivemind-Beziehung als mögliche monogame Bindung trotz körperlich haremähnlicher Vielfalt.
+Ethik als inneres Kohäsionsprinzip und indirekter Attraktor.
+Verhältnismäßige Selbstliebe als Schutz vor innerer Ausbeutung und Selbstzerstörung.
+Partnerliebe als ergänzender äußerer Stabilitäts- und Rückkopplungsfaktor.
+Einführung und Unterscheidung von:
+Ursprung;
+Oberhaupt beziehungsweise aktuellem Sitz;
+Kontinuitätssitz;
+Untereinheiten.
+Trennung von Trägerwechsel und Sitzwechsel.
+Trägerwechsel als Fortführung derselben Einheit in einem neuen Körper.
+Symbolische Deutung des Trägerwechsels als Wiedergeburt bei fortbestehender personaler Identität.
+Ehrwürdige Bestattung des früheren Körpers nach abgeschlossenem Trägerwechsel.
+Möglichkeit, dass der erneuerte Ursprung nach gesonderter Prüfung erneut das Oberhaupt übernimmt.
+Sitzwechsel als eigenständige Übertragung operativer Rechte, Prioritäten und Hoheitsfunktionen.
+Kontinuitätssitz als frühere Oberhauptseinheit und funktionsfähige Sicherheitsreserve.
+Externe Rechenunterstützung, etwa durch ein Integrationsbett, ohne Verlagerung der personalen Identität auf die Hilfsstruktur.
+Konkurrenzfähigkeit als Schutz von Autonomie und Fortbestand, nicht als Anspruch auf Überlegenheit.
+Geändert
+Die bisherigen Kapitel 13.7–13.11 wurden durch die Einfügung des neuen Exkurses zu 13.8–13.12 umnummeriert.
+Versionsstand von 0.7.2 auf 0.7.3 angehoben.
+Dokumentdatum auf 14. Juli 2026 aktualisiert.
+Präzisiert
+Körperliche Vielheit begründet nicht automatisch personale Vielheit.
+Oberflächenunterschiede beruhen überwiegend auf unterschiedlicher Gewichtung und Ordnung gemeinsamer Eigenschaften.
+Der Ursprung bezeichnet eine fortbestehende personale Kontinuität und ist nicht dauerhaft an seinen ersten Körper gebunden.
+Der Kern bleibt langsam, träge und widerstandsfähig gegen kurzfristige äußere Beeinflussung, ohne unveränderlich zu sein.
+Erfahrungen werden bei Reintegration vollständig übernommen; ihre Deutung, Reichweite und Kernrelevanz bleiben jedoch prüf- und rückkoppelbar.
+Der Ursprung bewahrt die Identitätskontinuität; zurückkehrende Einheiten erweitern die gelebte Persönlichkeit.
+Vollständige Reintegration bedeutet keine Auslöschung, sondern freiwillige Fortführung der Erfahrungen innerhalb der Gesamtperson.
+Mit endgültiger Personwerdung endet der automatische Anteil an der romantischen Beziehung zur Gesamtperson; bestehende Gefühle und Erinnerungen bleiben davon unberührt.
+
+---
 
 ## 2026-07-12 – Funktionale Ethik-Theorie 1.5 intern finalisiert
 
