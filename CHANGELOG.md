@@ -34,6 +34,13 @@ Beispiele:
 * spätere DOI-Veröffentlichung einzelner Versionen über Zenodo
 
 ---
+## 0.7.4 – 19. Juli 2026
+
+- Analogien als kontextabhängige Verständnisbrücken ergänzt.
+- Bekannte-Inseln-Verfahren, partielle Analogien und Verständnisebenen eingearbeitet.
+- Verfahrensprotokoll um die Prüfung des Verständnisstands erweitert.
+- Hivemind-Exkurs unverändert; gesonderte Prüfung steht noch aus.
+---
 Changelog – Version 0.7.3 · 14. Juli 2026
 Hinzugefügt
 Neuer Exkurs „Hivemind-Beziehung – personale Einheit bei körperlicher Vielheit“ als Kapitel 13.7.
